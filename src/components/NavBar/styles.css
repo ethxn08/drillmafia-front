@@ -1,0 +1,20 @@
+.navBar {
+  width: 100%;
+  height: 150px;
+  display: flex;
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.nav-links {
+  padding: 40px;
+  background-color: rgba(55, 55, 55, 0.801);
+}
+.nav-title {
+  text-decoration: none;
+  color: whitesmoke !important;
+  font-size: 32px;
+}
+.logo {
+  width: 150px;
+  height: 150px;
+}
